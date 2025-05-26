@@ -46,3 +46,5 @@ If using the `locations_csv_file` argument, the CSV file must contain location d
 1.  `latitude`: Decimal degrees (e.g., `27.5166`).
 2.  `longitude`: Decimal degrees (e.g., `97.2000`).
 3.  `elevation_meters`: Elevation in meters (e.g., `650`).
+
+## MIT license
